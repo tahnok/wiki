@@ -15,3 +15,8 @@ network={
 ```
 
 Create an empty file called `ssh`
+
+## Webcam setup
+
+Using the `motion` package from here: https://learn.adafruit.com/cloud-cam-connected-raspberry-pi-security-camera/dropbox-sync
+
