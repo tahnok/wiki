@@ -21,4 +21,8 @@ For USB we need an external clock source / crystal. Typically an 8 MHz crystal i
 
 ![pinout for LQFP64](https://i.imgur.com/edXdVsk.png)
 
-[[/uploads/stm32f103 pinout.PNG]]
+## similar projects
+
+Bluepill: [schematic](https://wiki.stm32duino.com/images/c/c1/Vcc-gnd.com-STM32F103C8-schematic.pdf)
+
+MMDVM_HS Pi Hat: https://github.com/mathisschmieder/MMDVM_HS_Hat
