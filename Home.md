@@ -1,8 +1,8 @@
-Wiki for tahnok
+Hi!
 
-mirrored to https://github.com/tahnok/wiki
+This is a wiki for Wesley/Tahnok
 
-*TODO*
+ - [@tahnok](https://twitter.com/tahnok)
+ - [blog](https://blog.tahnok.me/)
 
- - [ ] add https
- - [ ] make sure mirroring works?
+mirrored to [[https://github.com/tahnok/wiki]]
