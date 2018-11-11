@@ -13,7 +13,9 @@ Order info on [digikey (CA)](https://www.digikey.ca/product-detail/en/stmicroele
 
 ### Oscillator
 
-For USB we need an external clock source / crystal. Typically an 8 MHz crystal is used. MMVDM pi-hat uses 20pF caps
+For USB we need an external clock source / crystal. Typically an 8 MHz crystal is used. MMVDM pi-hat uses 20pF caps, as does bluepill
+
+Blue pill includes a 1M resistor
 
 ## References
 
