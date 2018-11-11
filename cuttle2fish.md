@@ -10,3 +10,10 @@ https://github.com/tahnok/cuttle2fish
 Specifically the STM32F103RBT7 or STM32F103RBT6: the 128KB model in the 64 LQFP package
 
 Order info on [digikey (CA)](https://www.digikey.ca/product-detail/en/stmicroelectronics/STM32F103RBT7/497-11526-ND/2035337)
+
+
+## References
+
+![order information](https://i.imgur.com/LTHdG1Q.png)
+
+![pinout for LQFP64](https://i.imgur.com/edXdVsk.png)
