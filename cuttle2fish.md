@@ -1,6 +1,6 @@
 # Cuttle2Fish
 
-https://github.com/tahnok/cuttle2fish
+[[https://github.com/tahnok/cuttle2fish]]
 
 
 ## STM32F103
@@ -15,11 +15,15 @@ Order info on [digikey (CA)](https://www.digikey.ca/product-detail/en/stmicroele
 
 For USB we need an external clock source / crystal. Typically an 8 MHz crystal is used. MMVDM pi-hat uses 20pF caps, as does bluepill
 
-Blue pill includes a 1M resistor
+[Blue pill includes a 1M resistor](https://wiki.stm32duino.com/images/c/c1/Vcc-gnd.com-STM32F103C8-schematic.pdf)
+
+[openCM does not](http://support.robotis.com/en/baggage_files/opencm/opencm904_rev_10_final_schematic.pdf)
+
+st-link does not
 
 [oscillator design by ST](https://www.st.com/content/ccc/resource/technical/document/application_note/c6/eb/5e/11/e3/69/43/eb/CD00221665.pdf/files/CD00221665.pdf/jcr:content/translations/en.CD00221665.pdf)
 
-Could add a spot for one and just not solder it
+
 
 ## References
 
