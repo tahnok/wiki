@@ -21,6 +21,8 @@ For USB we need an external clock source / crystal. Typically an 8 MHz crystal i
 
 st-link does not
 
+nucleo board does have 2 resistors
+
 [oscillator design by ST](https://www.st.com/content/ccc/resource/technical/document/application_note/c6/eb/5e/11/e3/69/43/eb/CD00221665.pdf/files/CD00221665.pdf/jcr:content/translations/en.CD00221665.pdf)
 
 
