@@ -2,6 +2,13 @@
 
 [[https://github.com/tahnok/cuttle2fish]]
 
+## TODO
+
+ - do I need a button for reset?
+ - what pins to I need to expose for programming?
+ - do I want a user button?
+ - what LEDs do I want to use?
+
 
 ## STM32F103
 
