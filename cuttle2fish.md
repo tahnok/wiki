@@ -6,6 +6,7 @@
 
  - do I need a button for reset?
  - what pins to I need to expose for programming?
+  - [SWDIO and SWCLK](https://madnessinthedarkness.transsys.com/blog:2017:0122_black_magic_probe_bmp_on_st-link_v2_clones)
  - do I want a user button?
  - what LEDs do I want to use?
 
