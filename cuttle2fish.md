@@ -13,7 +13,7 @@
 
 ## STM32F103
 
-[datasheet](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
+[datasheet](/cuttle2fish/stm32f103c8.pdf)
 
 Specifically the STM32F103RBT7 or STM32F103RBT6: the 128KB model in the 64 LQFP package
 
