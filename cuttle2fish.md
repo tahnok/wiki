@@ -48,4 +48,5 @@ For USB we need an external clock source / crystal. Typically an 8 MHz crystal i
  - MMDVM_HS Pi Hat: [[https://github.com/mathisschmieder/MMDVM_HS_Hat]]
  - Black Magic Probe: [[https://github.com/blacksphere/blackmagic/wiki]]
  - FST-01: [[https://www.gniibe.org/FST-01/fst-01.html]]
+ - micro-bmp: [[https://github.com/korken89/micro-bmp/blob/master/ubmp_v1.pdf]]
 
