@@ -40,9 +40,7 @@ For USB we need an external clock source / crystal. Typically an 8 MHz crystal i
 
 ![order information](https://i.imgur.com/LTHdG1Q.png)
 
-![pinout for LQFP64](https://i.imgur.com/edXdVsk.png)
-
-[[/cuttle2fish/stmp32 64 lqfp.png]]
+[[/cuttle2fish/stmp32-64-lqfp.png]]
 
 ## similar projects
 
