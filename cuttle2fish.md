@@ -4,11 +4,11 @@
 
 ## TODO
 
- - do I need a button for reset?
  - what pins to I need to expose for programming?
-   - [SWDIO and SWCLK](https://madnessinthedarkness.transsys.com/blog:2017:0122_black_magic_probe_bmp_on_st-link_v2_clones)
+   - [SWDIO and SWCLK](https://madnessinthedarkness.transsys.com/blog:2017:0122_black_magic_probe_bmp_on_st-link_v2_clones), reset, power, gnd
  - do I want a user button?
  - what LEDs do I want to use? (APA or WS2812)
+  - APA seem super hard to find, WS2812 instead
 
 
 ## STM32F103
@@ -35,6 +35,22 @@ For USB we need an external clock source / crystal. Typically an 8 MHz crystal i
 > 5 or 6 pF of stray capacitance is a good budget, I think - for hobby stuff, no need to actually calculate that. Use the load capacitance from the crystal data sheet (probably something like 12pF or 18pF), and find capacitor values that solve the equation. Choose the nearest standard value, and you're good.
 
 > The way the math works out is that C = 2(Cl - Cs), where Cl is the load capacitance of the crystal. So an 18pF crystal needs 2(18-6) = 24pF load capacitors. I think 22pF is the closest standard value
+
+## RGB LEDs
+
+### WS2812 (aka Neopixels)
+
+https://octopart.com/search?q=ws2812-smd&start=0&oq=ws2812
+
+[stm32 project with impl](https://github.com/hwhw/stm32-projects)
+
+### APA102 / SK9822
+
+[writeup of protocol](https://cpldcpu.wordpress.com/2014/08/27/apa102/) (basically SPI)
+
+[avr lib](https://github.com/cpldcpu/light_ws2812/tree/master/light_apa102_AVR)
+
+[SK9822 info](https://cpldcpu.wordpress.com/2016/12/13/sk9822-a-clone-of-the-apa102/)
 
 ## References
 
