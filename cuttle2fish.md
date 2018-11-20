@@ -9,6 +9,7 @@
  - do I want a user button?
  - what LEDs do I want to use? (APA or WS2812)
   - APA seem super hard to find, WS2812 instead
+ - what do I use for 5V -> 3.3V conversion?
 
 
 ## STM32F103
