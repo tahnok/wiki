@@ -7,8 +7,6 @@
  - what pins to I need to expose for programming?
    - [SWDIO and SWCLK](https://madnessinthedarkness.transsys.com/blog:2017:0122_black_magic_probe_bmp_on_st-link_v2_clones), reset, power, gnd
  - do I want a user button?
- - what LEDs do I want to use? (APA or WS2812)
-  - APA seem super hard to find, WS2812 instead
  - what do I use for 5V -> 3.3V conversion?
 
 
@@ -52,6 +50,10 @@ https://octopart.com/search?q=ws2812-smd&start=0&oq=ws2812
 [avr lib](https://github.com/cpldcpu/light_ws2812/tree/master/light_apa102_AVR)
 
 [SK9822 info](https://cpldcpu.wordpress.com/2016/12/13/sk9822-a-clone-of-the-apa102/)
+
+[Adafruit product page](https://www.adafruit.com/product/3341)
+
+Going to use the APA102 in 2020 package because it seems fun and SPI should be easy to use
 
 ## References
 
