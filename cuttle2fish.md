@@ -43,6 +43,8 @@ https://octopart.com/search?q=ws2812-smd&start=0&oq=ws2812
 
 ### APA102 / SK9822
 
+[APA102 2020 datasheet](http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf)
+
 [writeup of protocol](https://cpldcpu.wordpress.com/2014/08/27/apa102/) (basically SPI)
 
 [avr lib](https://github.com/cpldcpu/light_ws2812/tree/master/light_apa102_AVR)
