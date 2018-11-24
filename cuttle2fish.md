@@ -55,6 +55,16 @@ https://octopart.com/search?q=ws2812-smd&start=0&oq=ws2812
 
 Going to use the APA102 in 2020 package because it seems fun and SPI should be easy to use
 
+## U2F
+
+[u2f-token firmware](https://github.com/gl-sergei/u2f-token), which uses GNUK and [NEUG](https://www.gniibe.org/memo/development/gnuk/rng/neug.html)
+
+Depends on button being on PB8
+
+### ADC
+
+Neug uses ADC1 and ADC2 with 2 channels. Current question, which pins are those channels on? Want to have nice long wavy traces out of those pins for Extra Noise
+
 ## References
 
 ![order information](https://i.imgur.com/LTHdG1Q.png)
