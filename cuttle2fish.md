@@ -4,11 +4,9 @@
 
 ## TODO
 
- - what pins to I need to expose for programming?
-   - [SWDIO and SWCLK](https://madnessinthedarkness.transsys.com/blog:2017:0122_black_magic_probe_bmp_on_st-link_v2_clones), reset, power, gnd
- - do I want a user button?
  - what do I use for 5V -> 3.3V conversion?
-
+ - what pins are used for ADC?
+ - what is APA102 symbol?
 
 ## STM32F103
 
