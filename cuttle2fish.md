@@ -65,6 +65,14 @@ Depends on button being on PB8
 
 Neug uses ADC1 and ADC2 with 2 channels. Current question, which pins are those channels on? Want to have nice long wavy traces out of those pins for Extra Noise
 
+## Power
+
+[PMIC / LDO / Voltage maker: LP2985](https://www.digikey.ca/product-detail/en/texas-instruments/LP2985-33DBVR/296-18476-1-ND/809911)
+
+~70 mA for STM32F1 (in current consumption section), with max "draw" of 150 mA
+
+APA102 2020 takes about 30 mA
+
 ## References
 
 ![order information](https://i.imgur.com/LTHdG1Q.png)
