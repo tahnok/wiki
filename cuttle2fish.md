@@ -4,9 +4,7 @@
 
 ## TODO
 
- - what do I use for 5V -> 3.3V conversion?
  - what pins are used for ADC?
- - what is APA102 symbol?
 
 ## STM32F103
 
