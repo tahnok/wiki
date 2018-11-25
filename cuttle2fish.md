@@ -5,6 +5,8 @@
 ## TODO
 
  - what pins are used for ADC?
+ - what switch to use?
+ - what LED to use?
 
 ## STM32F103
 
