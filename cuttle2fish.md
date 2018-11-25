@@ -7,6 +7,7 @@
  - what pins are used for ADC?
  - what switch to use?
  - what LED to use?
+ - PCB edge USB design or connector?
 
 ## STM32F103
 
