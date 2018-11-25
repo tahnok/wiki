@@ -86,4 +86,5 @@ APA102 2020 takes about 30 mA
  - Black Magic Probe: [[https://github.com/blacksphere/blackmagic/wiki]]
  - FST-01: [[https://www.gniibe.org/FST-01/fst-01.html]]
  - micro-bmp: [[https://github.com/korken89/micro-bmp/blob/master/ubmp_v1.pdf]]
+ - trinket m0: [schematic](https://cdn-learn.adafruit.com/assets/assets/000/045/723/original/adafruit_products_schem.png?1503525048) [learn](https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino/downloads)
 
