@@ -31,6 +31,10 @@ For USB we need an external clock source / crystal. Typically an 8 MHz crystal i
 
 > The way the math works out is that C = 2(Cl - Cs), where Cl is the load capacitance of the crystal. So an 18pF crystal needs 2(18-6) = 24pF load capacitors. I think 22pF is the closest standard value
 
+Chose to use a 5mm x 3.2mm crystal with 4 leads (ground on pins 2,4)
+
+The GX531S-8.000KKF1001 on OPL and equivalent package on [digikey](https://www.digikey.ca/product-detail/en/ecs-inc/ECS-80-10-30B-CWN-TR/XC2708TR-ND/8023325)
+
 ## RGB LEDs
 
 ### WS2812 (aka Neopixels)
