@@ -83,9 +83,13 @@ APA102 2020 takes about 30 mA
 
 Using a SPST button: B3U-1000P [digikey](https://www.digikey.ca/product-detail/en/omron-electronics-inc-emc-div/B3U-1000P/SW1020CT-ND/1534357)
 
+## USB
+
+Using a USB PCB footprint from [USBArmory](https://github.com/inversepath/usbarmory)
+
 ## References
 
-![order information](https://i.imgur.com/LTHdG1Q.png)
+[stm32f103 order information](https://i.imgur.com/LTHdG1Q.png)
 
 [[/cuttle2fish/stmp32-64-lqfp.png]]
 
