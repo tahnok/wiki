@@ -80,6 +80,10 @@ Neug uses ADC1 and ADC2 with 2 channels. Current question, which pins are those 
 
 APA102 2020 takes about 30 mA
 
+## Button
+
+Using a SPST button: B3U-1000P [digikey](https://www.digikey.ca/product-detail/en/omron-electronics-inc-emc-div/B3U-1000P/SW1020CT-ND/1534357)
+
 ## References
 
 ![order information](https://i.imgur.com/LTHdG1Q.png)
