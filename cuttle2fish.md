@@ -5,8 +5,7 @@
 ## TODO
 
  - what pins are used for ADC?
- - what LED to use?
- - PCB edge USB design or connector?
+ - Design cuttlefish outline
 
 ## STM32F103
 
