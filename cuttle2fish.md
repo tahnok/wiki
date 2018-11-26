@@ -87,6 +87,10 @@ Using a SPST button: B3U-1000P [digikey](https://www.digikey.ca/product-detail/e
 
 Using a USB PCB footprint from [USBArmory](https://github.com/inversepath/usbarmory)
 
+## Dimensions
+
+23 x 47 mm
+
 ## References
 
 [stm32f103 order information](https://i.imgur.com/LTHdG1Q.png)
