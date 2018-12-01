@@ -6,6 +6,10 @@
 
  - what pins are used for ADC?
 
+## Ordering
+
+[Digikey cart](https://www.digikey.ca/short/j1jpdr)
+
 ## STM32F103
 
 [datasheet](/cuttle2fish/stm32f103c8.pdf)
