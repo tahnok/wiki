@@ -5,7 +5,6 @@
 ## TODO
 
  - what pins are used for ADC?
- - Design cuttlefish outline
 
 ## STM32F103
 
