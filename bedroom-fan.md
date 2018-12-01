@@ -1,0 +1,3 @@
+Model: UC7082TA
+FCC ID: CHQ7082TA
+IC: ???
