@@ -9,3 +9,5 @@ Frequency: 303.875-303.875 MHz
 https://www.instructables.com/id/Reverse-Engineer-RF-Remote-Controller-for-IoT/
 
 https://irrational.net/2014/03/23/reverse-engineering-a-ceiling-fan/
+
+https://www.instructables.com/id/Voice-Control-of-a-Ceiling-Fan-With-Alexa/
