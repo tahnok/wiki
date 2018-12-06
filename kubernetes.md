@@ -12,9 +12,7 @@ pod: a group of one or more application containers and shared resources like Vol
 
 scheduling: the thing the master does to decide which nodes to run a pod on
 
-resources: ??
-
-replication controller: ?? 
+resources: a deployment or a service or a volume. Maybe like objects?
 
 service: a set of pods defined by selectors that are exposed via a mechanism like an cluster internal IP, or a load balancer. Used to facilitate inter-cluster communication without depending on a particular pod. (ie mysql service, not host123 that is running mysql)
 
@@ -24,9 +22,16 @@ label: a key/value pair attached to an object (a pod, but what else?)
 
 replica: number of pods requested in a deployment. Can be turned up or down and it will automatically schedule new pods. Will automatically balance a service across all pods in a replica (as defined by a label? or a deployment?)
 
-environment:  ??
 
 rollout: tool used to monitor updates to containers (as new pods are created)
+
+namespace: a way to partition pods, services while running on the same "cluster". Nodes and persistentVolumes are _not_ namespaced
+
+workload: a pod or a controller. Runs on nodes
+
+controllers: a thing not a pod that lives in kubernetes. Includes deployments, ReplicaSet and Jobs
+
+jobs: one or more pods that runs and then terminates.
 
 [[/kubernetes/module_03_nodes.svg]]
 
