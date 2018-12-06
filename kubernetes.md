@@ -22,7 +22,11 @@ selector: a way to define which labels to look for in a service?
 
 label: a key/value pair attached to an object (a pod, but what else?)
 
+replica: number of pods requested in a deployment. Can be turned up or down and it will automatically schedule new pods. Will automatically balance a service across all pods in a replica (as defined by a label? or a deployment?)
 
+environment:  ??
+
+rollout: tool used to monitor updates to containers (as new pods are created)
 
 [[/kubernetes/module_03_nodes.svg]]
 
@@ -35,3 +39,7 @@ label: a key/value pair attached to an object (a pod, but what else?)
 `kubectl run`
 
 `kubectl get node`
+
+## references
+
+[[https://kubernetes.io/docs/tutorials/kubernetes-basics/]]
