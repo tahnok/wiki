@@ -10,3 +10,4 @@ mirrored to [[https://github.com/tahnok/wiki]]
 Projects:
 
  - [[cuttle2fish]]
+ - [[bedroom fan]]
